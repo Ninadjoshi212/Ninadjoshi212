@@ -15,6 +15,12 @@ has a passion for Web development with a keen interest in exploring new areas in
 <br>
 <p align ="center"> <img width="830" height="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="NinadJoshi"/> </p>
 
+<br>
+<h1> About Me </h1>
+- Current Location:- Mumbai
+<h3 width="45"> &nbsp &nbsp &nbsp I'm Result-oriented java Developer skiled in designing and building java codes to increase efficiency of applications. Adept at Identifying client requiremets and ensuring specifications are met by routine checks for maximum client satisfaction. Proficient at debugging minor fixes, and employing SQL database to achieve maximum data security.</h3>
+<br>
+	
 <h3><b>Projects :<b></h3>
 <table>
   <thead align="center">
