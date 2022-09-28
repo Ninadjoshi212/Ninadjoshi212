@@ -17,7 +17,9 @@ has a passion for Web development with a keen interest in exploring new areas in
 
 <br>
 <h1> About Me </h1>
+
 - Current Location:- Mumbai
+
 <h3 width="45"> &nbsp &nbsp &nbsp I'm Result-oriented java Developer skiled in designing and building java codes to increase efficiency of applications. Adept at Identifying client requiremets and ensuring specifications are met by routine checks for maximum client satisfaction. Proficient at debugging minor fixes, and employing SQL database to achieve maximum data security.</h3>
 <br>
 	
