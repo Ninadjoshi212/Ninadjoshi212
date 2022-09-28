@@ -24,37 +24,21 @@ has a passion for Web development with a keen interest in exploring new areas in
 <br>
 	
 <h3><b>Projects :<b></h3>
-<table>
+<table align="center">
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
     </tr>
   </thead>
   <tbody>
       <tr>
       <td><a href="https://github.com/Ninadjoshi212/nordstrom"><b>NORDSTORM website clone</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Ninadjoshi212/nordstrom?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Ninadjoshi212/nordstrom?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Ninadjoshi212/nordstrom?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Ninadjoshi212/nordstrom?style=flat-square&labelColor=343b41"/></td>
       </tr>
-	  <tr>
+      <tr>
       <td><a href="https://github.com/Ninadjoshi212/Bewakoof_website_Clone"><b>BEWAKOOF Website Clone</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Ninadjoshi212/Bewakoof_website_Clone?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Ninadjoshi212/Bewakoof_website_Clone?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Ninadjoshi212/Bewakoof_website_Clone?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Ninadjoshi212/Bewakoof_website_Clone?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Ninadjoshi212/Stylecraze-Website-Clone"><b>STYLECRAZE Website Clone</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Ninadjoshi212/Stylecraze-Website-Clone?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Ninadjoshi212/Stylecraze-Website-Clone?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Ninadjoshi212/Stylecraze-Website-Clone?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Ninadjoshi212/Stylecraze-Website-Clone?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
