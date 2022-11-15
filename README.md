@@ -45,6 +45,7 @@ Passionate about Web development with a keen interest in exploring new aspects o
 </table>
 <br>
 <br>
+	
 - 💬 Ask me about **JAVA,MySQL,Spring Boot,Javascript,DSA,HTML,CSS**
 
 - 📫 How to reach me **ninadjoshi212@gmail.com**
