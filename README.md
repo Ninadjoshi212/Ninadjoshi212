@@ -1,81 +1,111 @@
-<h1 align="center"> Hi<img src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif" height="30" />, I'm Ninad Joshi</h1>
+<h1 align="center"> Hi👋, I'm Ninad Joshi</h1>
+
 <br>
+<br>
+
 <p align="center" width="45">
-    <a href="https://github.com/Ninadjoshi212?tab=followers">
-        <img alt="GitHub followers" src="https://img.shields.io/github/followers/Ninadjoshi212?color=yellow&logo=github">
-    </a>
-    <a href="https://github.com/Ninadjoshi212">
-        <img src="https://komarev.com/ghpvc/?username=Ninadjoshi212&color=red" alt="profile views" />
-    </a>
-</p>
-<hr>
-<br>
-<h3 align="center">A Passionate Java Backend Developer eager to learn and develop user friendly product's,
-Passionate about Web development with a keen interest in exploring new aspects of coding.</h3>
-<br>
-<p align ="center"> <img width="830" height="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="NinadJoshi"/> </p>
-
-<br>
-<h1> About Me </h1>
-
-<h3 width="45"> &nbsp &nbsp &nbsp Result-oriented java Developer skiled in designing and building java codes to increase efficiency of applications. Adept at Identifying client requiremets and ensuring specifications are met by routine checks for maximum client satisfaction. Proficient at debugging minor fixes, and employing SQL database to achieve maximum data security.</h3>
-<br>
-	
-<h3><b>Projects :<b></h3>
-<table align="center">
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-    </tr>
-  </thead>
-  <tbody>
-      <tr>
-      <td><a href="https://github.com/Ninadjoshi212/fanatical-building-1351"><b>Online Cab Booking App</b></a></td>
-      </tr>
-      <tr>
-      <td><a href="https://github.com/Ninadjoshi212/nordstrom"><b>NORDSTORM website clone</b></a></td>
-      </tr>
-      <tr>
-      <td><a href="https://github.com/Ninadjoshi212/Bewakoof_website_Clone"><b>BEWAKOOF Website Clone</b></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Ninadjoshi212/Stylecraze-Website-Clone"><b>STYLECRAZE Website Clone</b></a></td>
-    </tr>
-  </tbody>
-</table>
-<br>
-<br>
-	
-- 💬 Ask me about **JAVA,MySQL,Spring Boot,Javascript,DSA,HTML,CSS**
-
-- 📫 How to reach me **ninadjoshi212@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1K71c6m8PO2GLb5WM7E-o64R7S7Ih4la1/view?usp=sharing](https://drive.google.com/file/d/1K71c6m8PO2GLb5WM7E-o64R7S7Ih4la1/view?usp=sharing)
-
-- ⚡ Fun fact **I don't leave anything easly.**
-
-<br>
-<br>
-<h3 align="left">Connect with me:</h3>
-<br>
-<p align="left">
-<a href="https://linkedin.com/in/Ninadjoshi212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="NinadJoshi" height="30" width="40" /></a>
-<a href="https://www.facebook.com/mfallin.foever/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="NinadJoshi" height="30" width="40" /></a>
-<a href="https://leetcode.com/ninadjoshi212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="NinadJoshi" height="30" width="40" /></a>
+<a href="https://github.com/Ninadjoshi212?tab=followers"><img src="https://img.shields.io/github/followers/Ninadjoshi212?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Ninadjoshi212/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Ninadjoshi212"></a>
 </p>
 
 <br>
-<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<br>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<h3 align="center">Eager and highly motivated Java Backend Developer with good expertise in website architecture design and web API design. Passionate about application development. Flexible, Detail-Oriented and the ability to finish projects within a tight timeframe.</h3>
 
 <br>
-<!-- <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ninadjoshi212&" alt="NinadJoshi" /></p> -->
+<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href=" "><img src="https://github-profile-trophy.vercel.app/?username=Ninadjoshi212" style="max-width: 100%;"></a> </p>
 <br>
-<p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Ninadjoshi212&show_icons=true&locale=en&layout=compact" alt="NinadJoshi" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ninadjoshi212&show_icons=true&locale=en" alt="NinadJoshi" /></p>
-<br>
+
+
+
+### 🤝 Connect with me:
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://ninadjoshi212.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ninadjoshi212/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ninadjoshi212@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+919309172790)
+---
+
+### 👨‍💻 Coding Profiles
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-%23239120.svg?&style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ninadjoshi212/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/ninadjoshi212/)
+[![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@ninadjoshi212)
+
+---
+
+- 🔭 I’m currently Studying at [MASAI SCHOOL](https://www.masaischool.com)
+- 🌱 I’m currently learning **Spring Boot......**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **JAVA, MySQL, Spring Boot, HTML, CSS, JavaScript, DSA.**
+- 📫 How to reach me: **ninadjoshi212@gmail.com**
+- 👨‍💻 All of my projects are available at [My Portfolio](https://ninadjoshi212.github.io/)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1K71c6m8PO2GLb5WM7E-o64R7S7Ih4la1/view?usp=share_link)
+- ⚡ Fun fact: I never shut down my PC.
+
+---
+
+### 📊 Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ninadjoshi212&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="Ninad's github stats" width="48%" align="right" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ninadjoshi212&theme=tokyonight&hide_border=true" alt="Ninad's github streak" width="48%" >
+
+---
+
+### 🧑‍💻 Languages
+[![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://ninadjoshi212.github.io/)
+[![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://ninadjoshi212.github.io/)
+[![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://ninadjoshi212.github.io/)
+[![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://ninadjoshi212.github.io/)
+[![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://ninadjoshi212.github.io/)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+
+### 🧩 Frameworks/Libraries
+
+[![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://ninadjoshi212.github.io/)
+[![Hibernate](https://img.shields.io/badge/Hibernate-%23575757.svg?style=for-the-badge&logo=hibernate&logoColor=white)](https://ninadjoshi212.github.io/)
+[![JDBC](https://img.shields.io/static/v1?style=for-the-badge&message=JDBC&color=29334C&label=)](https://ninadjoshi212.github.io/)
+[![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://ninadjoshi212.github.io/)
+
+### 🗃️ Databases
+
+[![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://ninadjoshi212.github.io/)
+
+### ⚒️ Tools
+
+[![SpringBoot](https://img.shields.io/badge/Spring%20Boot-%236DB33.svg?style=for-the-badge&logo=springboot&logoColor=white)](https://ninadjoshi212.github.io/)
+[![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://ninadjoshi212.github.io/)
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://ninadjoshi212.github.io/)
+[![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://ninadjoshi212.github.io/)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://ninadjoshi212.github.io/)
+[![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)](https://ninadjoshi212.github.io/)
+[![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://ninadjoshi212.github.io/)
+[![npm](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://ninadjoshi212.github.io/)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+[![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&amp;logo=json&amp;logoColor=white)](https://ninadjoshi212.github.io/)
+[![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)](https://ninadjoshi212.github.io/)
+
+### 🧠 IDEs/Text Editors I use
+
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![intellijidea](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+
+### 💻 Workspace
+
+[![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://ninadjoshi212.github.io/)
+
+
+---
+### 🔝 Most used languages
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninadjoshi212&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html,scss&layout=compact" />
+
+---
+
+### 📊 Contribution Graph
+  <img alt="Soumyakant's ContributionGraph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ninadjoshi212&theme=tokyonight" />
+
