@@ -39,7 +39,7 @@
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JAVA, MySQL, Spring Boot, HTML, CSS, JavaScript, DSA.**
 - 📫 How to reach me: **ninadjoshi212@gmail.com**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://ninadjoshi212.github.io/)
+- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/Ninadjoshi212?tab=repositories)
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1K71c6m8PO2GLb5WM7E-o64R7S7Ih4la1/view?usp=share_link)
 - ⚡ Fun fact: I never shut down my PC.
 
